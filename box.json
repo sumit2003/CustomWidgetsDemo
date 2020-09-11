@@ -18,7 +18,7 @@
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demo-gauge-sps",
+			"tag": "com-demo-box-sps",
 			"url": "https://github.com/sumit2003/CustomWidgetsDemo/Box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
