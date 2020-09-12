@@ -7,6 +7,7 @@
 			border-width: 2px;
 			border-color: black;
 			border-style: solid;
+			box-shadow: 10px 10px 5px #888888;
 			display: block;
 		} 
 
