@@ -13,9 +13,9 @@
 						<td>Shadow</td>
 						<td>
 							<input type="radio" id="yes" name="shadow" value="y">
-							<label for="yes">Yes</label><br>
+							<label for="yes">Yes</label>
 							<input type="radio" id="no" name="shadow" value="n">
-							<label for="no">No</label><br>
+							<label for="no">No</label>
 						</td>
 					</tr>
 				</table>
