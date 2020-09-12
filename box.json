@@ -4,7 +4,7 @@
 	"name": "Demo Gauge",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://github.com/sumit2003/CustomWidgetsDemo/blob/master/test/icon.png",
+	"icon": "https://github.com/sumit2003/CustomWidgetsDemo/box/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
 	"license": "1.0",
@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://github.com/sumit2003/CustomWidgetsDemo/blob/master/test/box.js",
+			"url": "https://github.com/sumit2003/CustomWidgetsDemo/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-box-sps",
-			"url": "https://github.com/sumit2003/CustomWidgetsDemo/blob/master/test/box_sps.js",
+			"url": "https://github.com/sumit2003/CustomWidgetsDemo/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://github.com/sumit2003/CustomWidgetsDemo/blob/master/test/box_bps.js",
+			"url": "https://github.com/sumit2003/CustomWidgetsDemo/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
