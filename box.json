@@ -4,7 +4,7 @@
 	"name": "Demo Gauge",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://github.com/sumit2003/CustomWidgetsDemo/blob/master/box/icon.png",
+	"icon": "https://github.com/sumit2003/CustomWidgetsDemo/box/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
 	"license": "1.0",
