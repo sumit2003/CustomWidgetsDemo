@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://sumit2003/CustomWidgetsDemo/box.js",
+			"url": "https://sumit2003/CustomWidgetsDemo/box_main.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
