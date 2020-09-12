@@ -9,6 +9,15 @@
 						<td>Color</td>
 						<td><input id="sps_color" type="text" size="40" maxlength="40"></td>
 					</tr>
+					<tr>
+						<td>Shadow</td>
+						<td>
+							<input type="radio" id="yes" name="shadow" value="y">
+							<label for="yes">Yes</label><br>
+							<input type="radio" id="no" name="shadow" value="n">
+							<label for="no">No</label><br>
+						</td>
+					</tr>
 				</table>
 				<input type="submit" style="display:none;">
 			</fieldset>
