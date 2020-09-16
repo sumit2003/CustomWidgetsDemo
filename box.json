@@ -7,7 +7,7 @@
 	"icon": "https://sumit2003.github.io/CustomWidgetsDemo/box/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
-	"license": "1.0",
+	"license": "1.0.1",
 	"webcomponents": [
 		{
 			"kind": "main",
